@@ -8,7 +8,7 @@ Course has been refreshed in 2021 to include up to date content.
 
 ### Section 2: Next Generation JavaScript
 
-### Section 3:
+### Section 3: Basics and Components
 
 created `first-app`
 
