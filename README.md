@@ -12,5 +12,7 @@ Course has been refreshed in 2021 to include up to date content.
 
 created `first-app`
 
+Assignment 1 is creating the Expenses component. 
+
 ## Old Course
 ### Section 26: React Hooks
